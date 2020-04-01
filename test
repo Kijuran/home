@@ -1,2 +1,2 @@
-ngrok_ip = 192.168.0.103
+ngrok_ip = 127.0.0.1
 ngrok_port = 1234
