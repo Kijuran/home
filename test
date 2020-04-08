@@ -1,2 +1,2 @@
-ngrok_ip = 0.tcp.ngrok.io
+ngrok_ip = 127.0.0.1
 ngrok_port = 10126
